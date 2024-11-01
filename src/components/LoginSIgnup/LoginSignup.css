@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    
+    background-color: rgb(4, 4, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    width: 450px;
+    height: 500px;
+    box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+    background: white;
+    overflow: hidden;
+}
